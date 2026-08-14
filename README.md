@@ -1,6 +1,6 @@
 # prueba-github
 
-#Probando GitHub
+# Probando GitHub
 
 **Texto en negritas**
 
